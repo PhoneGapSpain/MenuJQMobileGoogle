@@ -1,0 +1,13 @@
+
+.panel-btn{
+	position: absolute;
+	background-repeat: no-repeat;
+	width: 50px;
+	height: 20px;
+	box-shadow: none;
+	background-color: transparent !important;
+	border: none;
+	left: -5px;
+	top: 0;
+	margin-top: 10px !important;
+}
